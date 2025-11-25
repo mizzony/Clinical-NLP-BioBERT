@@ -1,0 +1,24 @@
+#Core ML
+
+torch>=2.0.1
+transformers>=4.30.0
+scikit-learn>=1.2.2
+spacy>=3.5.0
+numpy>=1.24.3
+pandas>=2.0.0
+
+#API & Serving
+
+fastapi>=0.95.0
+uvicorn>=0.22.0
+pydantic>=1.10.7
+
+#Privacy & Processing
+
+presidio-analyzer>=2.2.32
+regex>=2023.6.3
+
+#Optimization
+
+onnxruntime>=1.15.0
+accelerate>=0.20.3
